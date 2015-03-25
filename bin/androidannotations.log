@@ -1,0 +1,2 @@
+00:45:41.780 [Worker-73] INFO  o.a.AndroidAnnotationProcessor:84 - Initialize AndroidAnnotations 3.2 with options {phase=BUILD}
+00:46:35.391 [Worker-67] INFO  o.a.AndroidAnnotationProcessor:84 - Initialize AndroidAnnotations 3.2 with options {phase=BUILD}

@@ -1,0 +1,1 @@
+package com.mao.testv7demo;import org.androidannotations.annotations.EActivity;import android.support.v7.app.ActionBarActivity;@EActivity(R.layout.act_splash)public class SplashActivity extends ActionBarActivity {}
